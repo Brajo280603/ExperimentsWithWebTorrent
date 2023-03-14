@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "webtorrent": "^2.0.14"
+  },
+  "type": "module"
+}
